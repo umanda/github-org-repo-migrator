@@ -1,0 +1,12 @@
+# Ignore temp clone directory
+temp_repos/
+
+# Ignore shell command history files
+*.swp
+*.bak
+*.log
+*.tmp
+
+# Mac/Linux/VS Code system files
+.DS_Store
+.vscode/
