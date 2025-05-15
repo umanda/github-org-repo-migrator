@@ -1,0 +1,16 @@
+# Format: <path> <owner(s)>
+
+# Example: Assign @umanda and @team/frontend to everything in the repo
+#* @umanda @team/frontend
+
+# Example: Assign @devops to all scripts
+#scripts/* @devops
+
+# Example: Assign @frontend to frontend code
+#frontend/** @frontend
+
+# Example: Assign @docs-bot to documentation
+#docs/** @docs-bot
+
+
+* @umanda
