@@ -90,6 +90,8 @@ yes
 github-org-repo-migrator/
 ├── clone-github-repo.sh   # Main executable script
 └── README.md              # You're reading it!
+└── LICENSE                # License infomation
+└── .gitignore             # Let's not push all, this will help you to ignore unwanted files
 ```
 
 
