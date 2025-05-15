@@ -101,7 +101,3 @@ MIT License — feel free to fork, modify, and improve!
 ### 🙌 Acknowledgements
 
 Built with 💻 for teams and org admins who love automation.
-
----
-
-Would you like a `LICENSE` file and `.gitignore` too?
